@@ -1,0 +1,13 @@
+# styles.qss
+buttonStyle {
+    border-style: solid;
+    border-width: 0px;
+    border-radius: 10px;
+    background-color: rgb(234,234,234);
+}
+
+buttonStyle:hover {
+    background-color: rgb(183,181,181);
+}
+
+# ... (do the same for other styles)
